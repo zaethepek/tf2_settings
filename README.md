@@ -1,4 +1,4 @@
-m0re's hud from https://huds.tf/site/s-m0re-Hud
+m0re's hud from https://huds.tf/site/s-m0re-Hud \n
 modified to have last damage done above ammo.
 
 Everything works as intended.
