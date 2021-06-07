@@ -1,6 +1,9 @@
-m0re's hud from https://huds.tf/site/s-m0re-Hud \n
-modified to have last damage done above ammo.
+This is my config and hud - including graphics settings, class configs, and some mods.   
 
-Everything works as intended.
-**NOTE**
-The `stickies_noalpha` folder is a mod that makes stickies super bright - **HOWEVER** it is blocked by sv_pure 1/2 and will not work on comp servers. 
+m0re's hud from https://huds.tf/site/s-m0re-Hud.  
+modified to have last damage done above ammo.   
+config for each class works and is setup for my personal preference.  
+mouse settings are the same across all classes.   
+
+**NOTE**  
+The `stickies_noalpha` folder is a mod that makes stickies super bright - __HOWEVER__ it is blocked by sv_pure 1/2 and will not work on comp servers. 
